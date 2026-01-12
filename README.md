@@ -1,37 +1,25 @@
 A. Tugas Besar pemprograman Aplikasi Mobile-Grab Lite
 
 B. Identitas
-
    Nama: RADIT (2304411635)
-   
    Kelas: 5L RPL 4 
 
 C. Tema Aplikasi
 
    Tema: Aplikasi Pemesanan Makanan (Grab)
-   
    Aplikasi Rujukan: Grab
-   
    https://play.google.com/store/search?q=grab&c=apps
    
-D. Fitur Utama (CheckList)
-
-   Autentikasi (Login Email & Google Sign-In)
-   
-   Create Data (Tambah Pesanan)
-   
-   Read Data (Daftar Riwayat Pesanan)
-   
-   Update Data (Ubah Status Pesanan Via Clik)
-   
-   Delete Data (Hapus Pesanan via Click)
-   
-   Firebase Realtime Database Integration
-   
-   Notifikasi Manager
+D. Fitur Utama
+   1. Autentikasi (Login Email & Google Sign-In)
+   2. Create Data (Tambah Pesanan)
+   3. Read Data (Daftar Riwayat Pesanan)
+   4. Update Data (Ubah Status Pesanan Via Clik)
+   5. Delete Data (Hapus Pesanan via Click)
+   6. Firebase Realtime Database Integration
+   7. Notifikasi Manager
 
 E. Screnshoot Aplikasi
-
    (Masukkan 6 Gambar yang sudah kamju capture ke folder 'Screnshoot' di GitHub)
 
 1. Login(
@@ -57,9 +45,9 @@ E. Screnshoot Aplikasi
 6. Notifikasi(
     
    ![b15409c4-520d-4d83-90ea-a87f10fb0271](https://github.com/user-attachments/assets/51b56a96-1552-4562-80aa-6bb96157fba0)
+   
 
 F. Cara Menajalankan Aplikasi
-
 1. Tahap Persiapan (Koneksi) Pastikan Internet Aktif: Karena aplikasi menggunakan Firebase Realtime Database, HP harus terhubung ke Wi-Fi atau Data Seluler. Buka Aplikasi: Klik ikon logo Yotta yang sudah kamu         buat di layar utama HP.
 2. Tahap Login (Autentikasi) Ada dua cara untuk masuk ke aplikasi yang telah kamu sediakan: Login Email & Password: Daftarkan akun email dan password apabila belum terdaftar. Masukkan email dan password yang          sudah kamu daftarkan (Register). Klik tombol Login. Login Google (Fitur Unggulan): 1. Klik tombol Login with Google. 2. Pilih salah satu akun Gmail yang ada di HP kamu. 3. Jika berhasil, aplikasi akan             langsung berpindah ke halaman Home.
 3. Tahapan pemesanan pada halaman utama,pilih menu makanan.kemudian pilih jumlah makanan yang ingin di pesan dan ada jumlah di harga dibawah dan ada angka untuk menampilkan berapa banyak jumlah makanan yan g di       pesan, Kemudian Klik Simpan Makanan
