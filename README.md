@@ -1,24 +1,37 @@
 A. Tugas Besar pemprograman Aplikasi Mobile-Grab Lite
 
 B. Identitas
+
    Nama: RADIT (2304411635)
+   
    Kelas: 5L RPL 4 
 
 C. Tema Aplikasi
+
    Tema: Aplikasi Pemesanan Makanan (Grab)
+   
    Aplikasi Rujukan: Grab
+   
    https://play.google.com/store/search?q=grab&c=apps
    
 D. Fitur Utama (CheckList)
+
    Autentikasi (Login Email & Google Sign-In)
+   
    Create Data (Tambah Pesanan)
+   
    Read Data (Daftar Riwayat Pesanan)
+   
    Update Data (Ubah Status Pesanan Via Clik)
+   
    Delete Data (Hapus Pesanan via Click)
+   
    Firebase Realtime Database Integration
+   
    Notifikasi Manager
 
 E. Screnshoot Aplikasi
+
    (Masukkan 6 Gambar yang sudah kamju capture ke folder 'Screnshoot' di GitHub)
 
 1. Login(
