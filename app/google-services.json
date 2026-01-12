@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123797733938",
+    "firebase_url": "https://grab-4d43a-default-rtdb.firebaseio.com",
+    "project_id": "grab-4d43a",
+    "storage_bucket": "grab-4d43a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123797733938:android:8b44bad6a27655cce0b22b",
+        "android_client_info": {
+          "package_name": "com.example.grab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123797733938-r8g8feesps54eshoaf4jfer13e5c8pvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXsWsL5E5-V9SwKB7NzTezTb_OrmzuD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123797733938-r8g8feesps54eshoaf4jfer13e5c8pvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
